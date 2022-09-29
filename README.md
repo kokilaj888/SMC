@@ -1,2 +1,2 @@
 # SMC
-Sri Menu Card
+Sri's Menu Card
